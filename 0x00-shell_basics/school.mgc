@@ -1,2 +1,2 @@
-Ostring SCHOOL School data
-!mime School
+(Ostring SCHOOL School data !:mime School)
+File -C -m school.mgc
